@@ -85,7 +85,7 @@ span.accent {
   margin: 1em 0;
 }
 .callOut {
-  background: #e1d8b9;
+  background: #e998b9; /*#e1d8b9;*/
   padding: 25px;
   margin-bottom: 25px;
   -webkit-border-top-left-radius: 0px;
